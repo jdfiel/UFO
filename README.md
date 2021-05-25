@@ -9,17 +9,17 @@ The purpose of the project is to create table that can be filtered to allow user
 Upon entering the site, users are immediately able to determine it's purpose and intuitively understand how to utilize it thanks to the simplistic design. The hook within the jumbotron header is perfect to incite further curiosity of potential users.
 
 #### The Truth is Out There
-![default_filter]()
+![jumbotron](https://github.com/jdfiel/UFO/blob/main/Resources/default_filter.png)
 
 The fact that the data table loads upon entering the site in combination with the filter placeholders gives users visibility of the form of the data that they would require to best utilize the filters. 
 
 #### Default Filter and Data Table
-![default_filter]()
+![default_filter](https://github.com/jdfiel/UFO/blob/main/Resources/filter_ex.png)
 
 To filter the data, users need to simply look at the preloaded data table and decide which of the designated variables they want to use to streamline their information search. The layout and input event listener make the entire filtering process seamless. Once entered, the data is provided in a neat and digestable format for users to view.
 
 #### Filtered Search in Action
-![example_search]()
+![example_search](https://github.com/jdfiel/UFO/blob/main/Resources/the_truth_is_out_there.png)
 
 ## Summary
 
